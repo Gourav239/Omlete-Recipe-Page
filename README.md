@@ -1,1 +1,3 @@
-# Omlete-Recipe-Page
+# Omelete-Recipe-Page
+
+Simple Omelette Recipe 
